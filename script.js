@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    document.getElementById("student-info").innerText = "Student ID: 200536540  Name: Jovial Joy";
+    document.getElementById("student-info").innerText = "Student ID: 200536540  Name: Joviyal Joy";
 });
 
 function submitOrder() {
